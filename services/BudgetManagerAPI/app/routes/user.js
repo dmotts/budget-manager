@@ -13,5 +13,14 @@ module.exports = (app) => {
         
     app.route('/api/v1/signup')
         .post(api.signup(models.User));
+<<<<<<< HEAD
 
 } // before git revert
+=======
+}
+<<<<<<< HEAD
+=======
+
+// Testing git
+>>>>>>> parent of 53da61c... Slight changes
+>>>>>>> parent of 2c8f2df... after revert
