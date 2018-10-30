@@ -14,8 +14,5 @@ module.exports = (app) => {
     app.route('/api/v1/signup')
         .post(api.signup(models.User));
 }
-<<<<<<< HEAD
-=======
 
 // Testing git
->>>>>>> parent of 53da61c... Slight changes
