@@ -9,7 +9,7 @@
 <script>
 export default {
   name: 'app'
-} // eslint-disable-next-line
+}
 </script>
 
 <style lang="scss">
